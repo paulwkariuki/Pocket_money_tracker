@@ -22,7 +22,7 @@ from sklearn.linear_model import LinearRegression
 # =========================
 # ❗ ORIGINAL FILE PATH (UNCHANGED)
 # =========================
-DATA_PATH = r"C:\Users\USER\Data science databases, excel files and other related statistical tables\Excel Files\pocket_data.csv"
+DATA_PATH = r"C:\Users\USER\OneDrive\Desktop\Excel Files\pocket_data.csv"
 CURRENCY = "KES"
 HIGH_EXPENSE_THRESHOLD = 3000
 
@@ -223,3 +223,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
